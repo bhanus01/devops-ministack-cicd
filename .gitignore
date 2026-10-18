@@ -1,0 +1,25 @@
+# Terraform local directories
+**/.terraform/*
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Terraform plan files
+*.tfplan
+tfplan
+
+# Terraform crash logs
+crash.log
+crash.*.log
+
+# Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
