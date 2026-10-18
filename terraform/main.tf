@@ -1,6 +1,6 @@
 # Create S3 Bucket
 
-resource "aws_s3_bucket" "app_bucket" {
+resource "aws_s3_bucket" "app_bucketttttt" {
 
   bucket = var.bucket_name
 
